@@ -1,9 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Francesco Gabrieli!
 
-<!--
-**francescogabrieli/francescogabrieli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Computer Engineering (AI & Data Analytics) at Politecnico di Torino.  
+💻 Passionate about AI, Machine Learning, and Big Data processing.  
+📊 Here are my GitHub stats and activities!
 
-Here are some ideas to get you started:
+---
+
+## 📊 GitHub Stats  
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=francescogabrieli&theme=dark)](https://wakatime.com/@francescogabrieli)
+
+
+
+
+---
+
+## 🛠️ Technologies  
+- **Languages:** Python, Java, JavaScript/TypeScript  
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn  
+- **Big Data Tools:** Hadoop, Spark, MapReduce  
+- **Development Tools:** Docker, Kubernetes, Git, Linux  
+
+---
+
+## 🏆 Achievements  
+- 🚀 Contributed to Explainable AI (XAI) and Big Data projects.  
+- 🌟 Maintainer of open-source repositories focused on sentiment analysis.  
+- 📈 Actively building data-driven and ML-powered apps.
+
+---
+
+🔗 **Find me on:**  
+💼 [LinkedIn](https://www.linkedin.com/in/francesco-gabrieli)  
+📬 francesco@email.com  
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
