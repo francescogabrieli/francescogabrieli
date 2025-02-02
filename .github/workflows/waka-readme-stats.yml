@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       # Run manually when modifying this file
-      - ".github/workflows/wakatime.yml"
+      - ".github/workflows/waka-readme-stats.yml"
   schedule:
     # Runs every day at 2am UTC
     - cron: "2 0 * * *"
