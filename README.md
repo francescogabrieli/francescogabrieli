@@ -38,22 +38,20 @@ Sunday                   5 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Rust                     45 mins             █████████████████████████   99.26 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lab2                     45 mins             █████████████████████████   99.57 % 
-Esercitazione2           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      45 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/03/2025 01:10:07 UTC
+ Last Updated on 30/03/2025 01:16:13 UTC
 <!--END_SECTION:waka-->
 
 
