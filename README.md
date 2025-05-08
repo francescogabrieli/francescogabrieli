@@ -38,18 +38,17 @@ Sunday                   23 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   7 mins              ███████████████████████░░   93.97 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/05/2025 01:15:37 UTC
+ Last Updated on 08/05/2025 01:15:57 UTC
 <!--END_SECTION:waka-->
 
 
