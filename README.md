@@ -58,7 +58,7 @@ No Activity Tracked This Week
 
 🔗 **Find me on:**  
 💼 [LinkedIn](https://www.linkedin.com/in/francesco-gabrieli)  
-📬 francesco.gabrieli.fg@email.com  
+📬 francesco.gabrieli.fg@gmail.com  
 
 
 
