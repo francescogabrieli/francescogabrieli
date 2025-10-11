@@ -38,17 +38,13 @@ Sunday                   119 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-SQL                      12 mins             ████████████░░░░░░░░░░░░░   46.94 % 
-JavaScript               7 mins              ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Bash                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -56,7 +52,7 @@ Mac                      25 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2025 00:24:55 UTC
+ Last Updated on 11/10/2025 00:23:01 UTC
 <!--END_SECTION:waka-->
 
 
