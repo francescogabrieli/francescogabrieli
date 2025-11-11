@@ -7,7 +7,7 @@
 ## 🕒 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -38,15 +38,16 @@ Sunday                   120 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 11 mins             ████████████████░░░░░░░░░   63.42 % 
-Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-JavaScript               1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Other                    4 mins              ██████████░░░░░░░░░░░░░░░   41.82 % 
+Markdown                 3 mins              ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Dart                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 
 🔥 Editors: 
-Cursor                   18 mins             █████████████████████████   100.00 % 
+Cursor                   11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -54,7 +55,7 @@ Mac                      18 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2025 00:27:40 UTC
+ Last Updated on 11/11/2025 00:26:54 UTC
 <!--END_SECTION:waka-->
 
 
