@@ -7,7 +7,7 @@
 ## 🕒 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -38,13 +38,14 @@ Sunday                   120 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               24 mins             ██████████████████████░░░   87.66 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +53,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 00:26:07 UTC
+ Last Updated on 21/11/2025 00:26:23 UTC
 <!--END_SECTION:waka-->
 
 
