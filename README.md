@@ -53,7 +53,7 @@ Mac                      28 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2025 00:26:39 UTC
+ Last Updated on 27/11/2025 00:26:18 UTC
 <!--END_SECTION:waka-->
 
 
