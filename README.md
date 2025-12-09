@@ -38,7 +38,7 @@ Sunday                   120 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Rust                     8 hrs 38 mins       ███████████████████████░░   91.32 % 
+Rust                     8 hrs 38 mins       ███████████████████████░░   91.33 % 
 TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
@@ -56,7 +56,7 @@ Mac                      9 hrs 27 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 00:27:51 UTC
+ Last Updated on 09/12/2025 00:27:31 UTC
 <!--END_SECTION:waka-->
 
 
