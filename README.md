@@ -38,8 +38,7 @@ Sunday                   120 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████████████   99.59 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Markdown                 14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.00 % 
@@ -53,7 +52,7 @@ Mac                      14 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2025 00:29:44 UTC
+ Last Updated on 16/12/2025 00:28:13 UTC
 <!--END_SECTION:waka-->
 
 
