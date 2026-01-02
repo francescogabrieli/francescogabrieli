@@ -7,9 +7,9 @@
 ## 🕒 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.10%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,13 +38,13 @@ Sunday                   120 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Rust                     4 hrs 24 mins       █████████████████████████   100.00 % 
+Rust                     5 hrs 41 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +52,7 @@ Mac                      4 hrs 24 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/francescogabrieli/francescogabrieli/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 00:32:01 UTC
+ Last Updated on 02/01/2026 00:28:23 UTC
 <!--END_SECTION:waka-->
 
 
