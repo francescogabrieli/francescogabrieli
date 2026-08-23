@@ -40,21 +40,21 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 38 mins             ████████████░░░░░░░░░░░░░   46.08 % 
-JavaScript               26 mins             ████████░░░░░░░░░░░░░░░░░   31.17 % 
-TypeScript               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+JavaScript               26 mins             ██████████░░░░░░░░░░░░░░░   40.10 % 
+Markdown                 19 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
+TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         ███████████████████░░░░░░   74.34 % 
-Codex Vscode             21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+VS Code                  59 mins             ███████████████████████░░   91.05 % 
+Codex Vscode             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 💻 Operating System: 
-Mac                      1 hr 23 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/08/2026 00:16:40 UTC
+ Last Updated on 23/08/2026 00:17:22 UTC
 <!--END_SECTION:waka-->
 
 
