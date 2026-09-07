@@ -40,23 +40,23 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+TypeScript               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.02 % 
+Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 11 mins       ██████████████████████░░░   89.84 % 
-Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Claude Code              3 hrs 44 mins       ██████████████████████░░░   88.75 % 
+Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
 
 💻 Operating System: 
-Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/09/2026 00:41:57 UTC
+ Last Updated on 07/09/2026 00:41:02 UTC
 <!--END_SECTION:waka-->
 
 
