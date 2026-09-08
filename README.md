@@ -11,26 +11,26 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                164 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌆 Daytime                551 commits         ████████████░░░░░░░░░░░░░   49.95 % 
-🌃 Evening                326 commits         ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-🌙 Night                  62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+🌞 Morning                169 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌆 Daytime                562 commits         ████████████░░░░░░░░░░░░░   49.34 % 
+🌃 Evening                343 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌙 Night                  65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   221 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Tuesday                  143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Wednesday                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Thursday                 181 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Friday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Saturday                 185 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Sunday                   132 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Monday                   227 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Thursday                 184 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Friday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Sunday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 ```
 
 
@@ -40,23 +40,23 @@ Sunday                   132 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Other                    44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+TypeScript               57 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Other                    44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+JavaScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+TeX                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 44 mins       ██████████████████████░░░   88.75 % 
-Codex Vscode             14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Claude Code              2 hrs 32 mins       ██████████████████████░░░   86.49 % 
+Codex Vscode             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Mac                      4 hrs 12 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/09/2026 00:41:02 UTC
+ Last Updated on 08/09/2026 00:38:03 UTC
 <!--END_SECTION:waka-->
 
 
