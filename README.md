@@ -16,21 +16,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌆 Daytime                563 commits         ████████████░░░░░░░░░░░░░   49.30 % 
-🌃 Evening                343 commits         ████████░░░░░░░░░░░░░░░░░   30.04 % 
-🌙 Night                  65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+🌞 Morning                172 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+🌆 Daytime                564 commits         ████████████░░░░░░░░░░░░░   49.30 % 
+🌃 Evening                343 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+🌙 Night                  65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   227 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Thursday                 187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Friday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Sunday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Monday                   227 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Tuesday                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Wednesday                120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Thursday                 187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Sunday                   135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 
 
@@ -40,18 +40,17 @@ Sunday                   135 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TeX                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             10 mins             ███████████████████████░░   90.43 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2026 00:36:43 UTC
+ Last Updated on 12/09/2026 00:35:40 UTC
 <!--END_SECTION:waka-->
 
 
