@@ -16,21 +16,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-🌆 Daytime                638 commits         █████████████░░░░░░░░░░░░   50.32 % 
-🌃 Evening                377 commits         ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+🌞 Morning                186 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+🌆 Daytime                640 commits         █████████████░░░░░░░░░░░░   50.39 % 
+🌃 Evening                377 commits         ███████░░░░░░░░░░░░░░░░░░   29.69 % 
 🌙 Night                  67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   242 commits         █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Friday                   174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Monday                   242 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Wednesday                138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Thursday                 210 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Friday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Saturday                 200 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 ```
 
 
@@ -40,23 +40,23 @@ Sunday                   136 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.47 % 
-Python                   2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-CSV                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python                   2 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.64 % 
+Other                    2 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
+Markdown                 57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 7 mins        ██████████████░░░░░░░░░░░   56.29 % 
-Codex Vscode             1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-VS Code                  1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Claude Code              3 hrs 5 mins        █████████████░░░░░░░░░░░░   52.95 % 
+Codex Vscode             1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+VS Code                  1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 
 💻 Operating System: 
-Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/09/2026 00:38:02 UTC
+ Last Updated on 26/09/2026 00:37:09 UTC
 <!--END_SECTION:waka-->
 
 
