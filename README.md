@@ -40,22 +40,22 @@ Sunday                   138 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               4 hrs 35 mins       █████████████░░░░░░░░░░░░   50.88 % 
-Markdown                 2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Image (svg)              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Markdown                 50 mins             ██████████░░░░░░░░░░░░░░░   39.65 % 
+TypeScript               39 mins             ████████░░░░░░░░░░░░░░░░░   30.93 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Image (svg)              6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 13 mins       ████████████████████░░░░░   79.96 % 
-VS Code                  1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Codex Vscode             1 hr 48 mins        █████████████████████░░░░   85.05 % 
+VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/10/2026 00:41:37 UTC
+ Last Updated on 11/10/2026 00:45:14 UTC
 <!--END_SECTION:waka-->
 
 
